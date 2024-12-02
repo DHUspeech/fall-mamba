@@ -1,2 +1,2 @@
-# fall-mamba
-The paper "Fall-Mamba: A Multimodal Fusion and Masked Mamba-based Approach for Fall Detection"    code
+#Fall-Mamba: A Multimodal Fusion and Masked Mamba-based Approach for Fall Detection
+The complete code is being verified and prepared for upload. Stay tuned.
